@@ -1,16 +1,16 @@
 ### Simple program to sort boarding cards 
 
-## Installation
+#### Installation
 ```
 composer install
 ```
 
-## Run the application
+#### Run the application
 ```
 localhost\sort_trips
 ```
 
-## Testing
+#### Testing
 ```
 ./vendor/bin/phpunit tests/src/SorterTest.php
 ```
