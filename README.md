@@ -5,7 +5,7 @@
 composer install
 ```
 
-#### Run the application
+#### Run
 ```
 localhost\sort_trips
 ```
