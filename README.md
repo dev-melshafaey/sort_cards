@@ -1,3 +1,5 @@
+### Simple program to sort boarding cards 
+
 ## Installation
 ```
 composer install
