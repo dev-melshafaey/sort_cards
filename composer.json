@@ -1,0 +1,14 @@
+{
+    "name": "vendor/sort_trips",
+    "description": "Description of project sort_trips.",
+    "authors": [
+        {
+            "name": "Mahmoud",
+            "email": "dev.melshafaey@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5"
+    }
+}
